@@ -1,1 +1,1 @@
-Glassomorphic signup landing page built using HTML & CSS
+Glassmorphic signup landing page built using HTML & CSS
